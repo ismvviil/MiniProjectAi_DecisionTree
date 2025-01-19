@@ -1,8 +1,7 @@
-pip install plotly
+plotly
 streamlit
 pandas
 matplotlib
 scikit-learn
 seaborn
 joblib
-plotly
